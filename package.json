@@ -1,0 +1,23 @@
+{
+  "name": "ht",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.7.7",
+    "handlebars-loader": "^1.7.1",
+    "html-webpack-plugin": "^5.1.0",
+    "lit-element": "^2.4.0",
+    "memfs": "^3.2.0",
+    "prettier": "^2.2.1",
+    "unionfs": "^4.4.0",
+    "webpack": "^5.22.0"
+  }
+}
