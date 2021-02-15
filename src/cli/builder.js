@@ -133,6 +133,7 @@ const compiler = webpack({
   resolve: {
     alias: {
       "lit-element": resolve(process.cwd(), "../../node_modules/lit-element"),
+      "hydra": resolve(process.cwd(), "../sdk"),
     },
   },
   output: {
